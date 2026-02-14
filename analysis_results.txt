@@ -1,0 +1,30 @@
+--- Analysis Results ---
+Model R-squared: 0.9406
+Model MAE: 76389.58
+
+Correlations with Weekly_Sales:
+Weekly_Sales    1.000000
+Size            0.810468
+MarkDown1       0.179107
+MarkDown5       0.173273
+MarkDown4       0.139195
+MarkDown3       0.120289
+MarkDown2       0.080157
+Fuel_Price      0.009464
+Temperature    -0.063810
+CPI            -0.072634
+Unemployment   -0.106176
+
+Feature Importance:
+     Feature  Importance
+        Size    0.801590
+         CPI    0.069407
+Unemployment    0.060535
+   MarkDown3    0.023109
+  Fuel_Price    0.017414
+ Temperature    0.015828
+   MarkDown4    0.004243
+   MarkDown5    0.002751
+   IsHoliday    0.001926
+   MarkDown1    0.001819
+   MarkDown2    0.001378
