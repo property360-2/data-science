@@ -1,4 +1,5 @@
 # Discount Effectiveness Analysis (4-2 Alvior)
+**Prepared by:** Dionsio Alvior, Justine Reyes, Venturina Jozel, Ordiales John Mark
 
 ## 1. Project Title & Objective
 **Objective:** Determine which discounts drive sales.
